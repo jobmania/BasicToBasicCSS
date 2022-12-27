@@ -1,0 +1,20 @@
+h1{
+    color: tomato;
+}
+p {
+    font-size: 10px;
+}
+
+.main{
+    background-color: blue;
+}
+
+.sub{
+    background-color: darkgreen;
+}
+
+#useless{
+    color: red;
+    font-size: 300px;
+    font-weight: 1000 ;
+}
